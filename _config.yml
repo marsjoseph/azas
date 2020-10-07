@@ -30,12 +30,9 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
-
-#Theme
-theme: jekyll-theme-cayman
 
 # Exclude from processing.
 # The following items will not be processed, by default.
